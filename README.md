@@ -1,4 +1,4 @@
-# jQueryPlugin_BootstrapCarousel
+# jQuery Plugin Bootstrap Carousel
 A jQuery Plugin to create Bootstrap Carousel - can be used with MVC or added to a standalone HTML page
 
 ### By Carmel Shvartzman
