@@ -9,36 +9,29 @@ http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-carousel.html
 <a href="http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-carousel.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
+<img border="0" height="382" src="http://1.bp.blogspot.com/-sfqbf112Sss/VaY-DN-CyaI/AAAAAAAALag/bmLEPBzQ7Nc/s640/2.png" width="640" />
 
-<img border="0" height="518" src="http://4.bp.blogspot.com/-x8OFAFycQYY/VaNWRcb3hhI/AAAAAAAALX8/GM8wZ0lX2XM/s640/1.png" width="640" />
+<img border="0" height="522" src="http://2.bp.blogspot.com/-qT91ZdrCiAk/VaY-EMFrbdI/AAAAAAAALa8/WJYyhwF06JA/s640/4.png" width="640" />
 
+<img border="0" height="640" src="http://1.bp.blogspot.com/-DjZrklatbdU/VaY-ET9kSEI/AAAAAAAALa4/rxzihO0Hrv4/s640/5.png" width="358" />
 
-<img border="0" height="640" src="http://4.bp.blogspot.com/-QkJhL2fpmoo/VaNWRLVOnyI/AAAAAAAALXk/lC1OEBhg_UM/s640/2.png" width="376" />
-
-
-
-
-<img border="0" height="490" src="http://4.bp.blogspot.com/-Ctfvw-uCXtg/VaNWRJQJf4I/AAAAAAAALYE/Dpj7Tvaj0os/s640/3.png" width="640" />
+<img border="0" height="544" src="http://4.bp.blogspot.com/-28wss1GQHaM/VaY-DuY8vjI/AAAAAAAALbM/sPdZBxwQ2Mg/s640/3.png" width="640" />
 
 
-<img border="0" height="414" src="http://4.bp.blogspot.com/-xwHfKOagpCg/VaNWR1gn6bI/AAAAAAAALXw/uQl3PxBXfPc/s640/4.png" width="640" />
+<img border="0" height="166" src="http://2.bp.blogspot.com/-jydaykUfWaY/VaY-E0FbTDI/AAAAAAAALbE/yeOfywFnAQc/s640/9.png" width="640" />
 
 
-For MVC data:<br />
-<br />
+<img border="0" height="202" src="http://1.bp.blogspot.com/-noeLIqM0RoY/VaY-CiDRMxI/AAAAAAAALaQ/hsDqUr6mh90/s640/12.png" width="640" />
 
 
-
-<img border="0" height="290" src="http://2.bp.blogspot.com/-1PjXd2ZVses/VaNWSIIbKyI/AAAAAAAALX0/OBROfA6oZ44/s640/5.png" width="640" />
+<img border="0" height="340" src="http://3.bp.blogspot.com/-XC683RtvYEM/VaY-E1oh2mI/AAAAAAAALbA/-9xtPqJOTgc/s640/8.png" width="640" />
 
 
 
-Code snapshot:<br />
-<br />
+<img border="0" height="300" src="http://3.bp.blogspot.com/-Q1zXJETtZ6g/VaY-BwdmOqI/AAAAAAAALaI/iGGrfnwBfjo/s640/10.png" width="640" />
 
 
-<img border="0" height="374" src="http://2.bp.blogspot.com/-3WXmCg1zKGU/VaNWSTOIGVI/AAAAAAAALX4/_dc_DktQb1I/s640/6.png" width="640" />
-
+<img border="0" height="334" src="http://1.bp.blogspot.com/-E9vEEM5X1z0/VaY-EPo5YdI/AAAAAAAALbI/hqX-g-1xNK0/s640/11.png" width="640" />
 
 
 
