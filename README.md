@@ -15,6 +15,8 @@ http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-carousel.html
 
 <img border="0" height="640" src="http://1.bp.blogspot.com/-DjZrklatbdU/VaY-ET9kSEI/AAAAAAAALa4/rxzihO0Hrv4/s640/5.png" width="358" />
 
+
+
 <img border="0" height="544" src="http://4.bp.blogspot.com/-28wss1GQHaM/VaY-DuY8vjI/AAAAAAAALbM/sPdZBxwQ2Mg/s640/3.png" width="640" />
 
 
